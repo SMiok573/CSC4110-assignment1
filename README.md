@@ -1,5 +1,5 @@
-# Github and git conflict
+# CSC4110-asignment1
 
-# Simeon Miok 
+## Simeon Miok 
 
-hk2999
+**hk2999**
